@@ -88,7 +88,7 @@ This project demonstrates the use of **Laravel MVC**, **Eloquent ORM relationshi
 4. Edit or delete existing records as needed.
 5. Observe automatic stock updates when sales are recorded.
 
---
+---
 
 ##🖼️ Screenshots or Code Snippets
 
