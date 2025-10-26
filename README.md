@@ -81,7 +81,7 @@ This project demonstrates the use of **Laravel MVC**, **Eloquent ORM relationshi
 
 ---
 
-##🧠 Usage
+🧠 Usage
 1. From the home page, click **“Products”** to view all available products.
 2. Use **“Add Product”** to register a new product.
 3. Navigate to **“Sales”** to record a new sale.
@@ -90,17 +90,17 @@ This project demonstrates the use of **Laravel MVC**, **Eloquent ORM relationshi
 
 ---
 
-##🖼️ Screenshots or Code Snippets
+🖼️ Screenshots or Code Snippets
 
-###🧾 Products Page
+🧾 Products Page
 ![Products Page](screenshots/products_page.png)
 
-###💵 Sales Page
+💵 Sales Page
 ![Sales Page](screenshots/sales_page.png)
 
 ---
 
-###Sample Controller Logic
+Sample Controller Logic
 // SaleController.php
 public function store(Request $request)
 {
@@ -112,11 +112,11 @@ public function store(Request $request)
 
 ---
 
-## Contributors
+Contributors
 Name: **Benjie Hufana** 
 - BS InfoTech 4B - DMMMSU - MLUC [College of Information Technology]
 
 ---
 
-##📜 License
+📜 License
 **This project is for educational purposes only and is not licensed for commercial use.**
