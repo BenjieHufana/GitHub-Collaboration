@@ -81,7 +81,7 @@ This project demonstrates the use of **Laravel MVC**, **Eloquent ORM relationshi
 
 ---
 
-🧠 Usage
+## 🧠 Usage
 1. From the home page, click **“Products”** to view all available products.
 2. Use **“Add Product”** to register a new product.
 3. Navigate to **“Sales”** to record a new sale.
