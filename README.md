@@ -58,7 +58,7 @@ This project demonstrates the use of **Laravel MVC**, **Eloquent ORM relationshi
 ### STEPS
 
 1. **Clone the repository**
-    git clone https://github.com/BenjieHufana/GitHub-Collaboration.git
+    git clone https://github.com/BenjieHufana/GitHub-Collaboration_HUFANA.git
 2. **Navigate into the project**
     cd mySales
 3. **Install dependencies**
